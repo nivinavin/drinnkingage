@@ -31,6 +31,7 @@ public class Sample {
 	@After
 	public void closeaccount()
 	{
+		System.out.println("this is navin after")
 		System.out.println("After");
 	}
 	
